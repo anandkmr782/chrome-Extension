@@ -5,6 +5,14 @@ body {
     display: flex;
     justify-content: center;
 }
+h5{
+    display: inline-block;
+    margin: auto 10px;
+    font-size: 22px;
+    color: blue;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+}
 
 p {
     display: inner-flex;
